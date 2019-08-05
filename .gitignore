@@ -1,8 +1,4 @@
-*
 Cache/
 Index/
 Lib/
 Local/
-!Installed\ Packages/
-!Packages/
-!.gitignore
